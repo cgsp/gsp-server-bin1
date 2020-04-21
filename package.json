@@ -1,0 +1,23 @@
+{
+  "name": "gsp-server-bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "mime": "^2.3.1",
+    "mz": "^2.7.0"
+  },
+  "bin": {
+    "gsp-server-bin": "bin/gsp-server-bin.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
